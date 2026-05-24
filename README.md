@@ -1,4 +1,4 @@
-# FlappyStar
+# FlappyStar (수정중)
 
 ## 1. 개요
 Unity로 제작한 플래피 버드 스타일의 미니 프로젝트입니다.<br>
