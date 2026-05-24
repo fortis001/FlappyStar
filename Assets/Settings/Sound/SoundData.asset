@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de6095801295e847b63b51490335e2c, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: 
+  sfxList:
+  - id:
+      _id: 100
+      _name: UI_Btn_Click
+    clip: {fileID: 8300000, guid: e520d2241b37bd944bcd0ce27002d73a, type: 3}
+    volume: 1
+  - id:
+      _id: 101
+      _name: UI_Btn_Hover
+    clip: {fileID: 8300000, guid: e520d2241b37bd944bcd0ce27002d73a, type: 3}
+    volume: 1
+  - id:
+      _id: 200
+      _name: Player_Jump
+    clip: {fileID: 8300000, guid: 2c3a29294cfd39748a9d284a9fae66a0, type: 3}
+    volume: 0.3
+  - id:
+      _id: 300
+      _name: Gameplay_GameOver
+    clip: {fileID: 8300000, guid: f20a1c0126cf77347964764e6e823625, type: 3}
+    volume: 1
+  - id:
+      _id: 310
+      _name: GamePlay_Crowd1
+    clip: {fileID: 8300000, guid: 87e081dab9d6fe0468af38c1459fb715, type: 3}
+    volume: 1
+  - id:
+      _id: 311
+      _name: GamePlay_Crowd2
+    clip: {fileID: 8300000, guid: cc5763a6c2ecbce498fe26c6b5122f5e, type: 3}
+    volume: 1
+  - id:
+      _id: 312
+      _name: GamePlay_Crowd3
+    clip: {fileID: 8300000, guid: 62dfa3ed073a9824e84202a554fe9c14, type: 3}
+    volume: 1
+  - id:
+      _id: 320
+      _name: GamePlay_Switch
+    clip: {fileID: 8300000, guid: e520d2241b37bd944bcd0ce27002d73a, type: 3}
+    volume: 1
+  bgmList:
+  - id:
+      _id: 100
+      _name: Title
+    clip: {fileID: 8300000, guid: 012730e24b5fab545b3f6ace57dfd487, type: 3}
+    volume: 1
+  - id:
+      _id: 200
+      _name: InGame
+    clip: {fileID: 8300000, guid: 012730e24b5fab545b3f6ace57dfd487, type: 3}
+    volume: 1

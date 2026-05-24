@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92edeeb0dea1dab49a7a7de5128cf54e, type: 3}
+  m_Name: ObstacleSpawnSettings
+  m_EditorClassIdentifier: 
+  _obstaclePairPrefab: {fileID: 256620598882140896, guid: 7aaf96026d9e1de40b18ecd55cb0e549, type: 3}
+  _obstaclePartPrefabs:
+  - {fileID: 5063358232554792347, guid: ea2b70e1ecb60e5429efa826da812bdf, type: 3}
+  - {fileID: 5063358232554792347, guid: 527c794b55dad0046bdd06e8cf82b426, type: 3}
+  - {fileID: 5063358232554792347, guid: c3a32aa332dc65445abf747dbfdca91b, type: 3}
+  - {fileID: 5063358232554792347, guid: b491306f8954d664c8d476c5d7cfb437, type: 3}
+  - {fileID: 5063358232554792347, guid: 8f12969a27890124baf432b5a482e960, type: 3}
+  - {fileID: 5063358232554792347, guid: df0456849d1bf2946a8ffa6b024acc3e, type: 3}
+  - {fileID: 5063358232554792347, guid: 7296331ee9ac62748ba19537051f0df9, type: 3}
+  _pairPrewarmCount: 4
+  _partPrewarmCountPerPrefab: 4
+  _baseGapClearance: 3
+  _minGapClearance: 1
+  _gapClearanceDecreasePerSecond: 0.02
+  _verticalMargin: 0
+  _spawnInterval: 2.5
+  _scrollSpeed: 3

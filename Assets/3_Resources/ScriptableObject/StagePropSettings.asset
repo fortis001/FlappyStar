@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11badeae19094c54d8af1aa5092f47fd, type: 3}
+  m_Name: StagePropSettings
+  m_EditorClassIdentifier: 
+  _crowdFansPrefab: {fileID: 5113584000502184893, guid: 786dd37e91ba8ec4ca534f69a45b0c6a, type: 3}
+  _crowdSpriteSets:
+  - _idleSpriteA: {fileID: 21300000, guid: 40b788fe71c351e41afc32d832d48f7b, type: 3}
+    _idleSpriteB: {fileID: 21300000, guid: a76efd70e5bd6b647ae2ad699a8ffcd3, type: 3}
+    _gameOverSprite: {fileID: 21300000, guid: ef7b9e288c929fa4cb442bf5c3d7c0ca, type: 3}
+  - _idleSpriteA: {fileID: 21300000, guid: 959cf0fc4d3595846b81a62269d45b93, type: 3}
+    _idleSpriteB: {fileID: 21300000, guid: c47137d059262e34ca39e8213b0246ce, type: 3}
+    _gameOverSprite: {fileID: 21300000, guid: 497c81e5e7ca44d4b98312a7bce426e0, type: 3}
+  - _idleSpriteA: {fileID: 21300000, guid: 563dcc4fe6fed124f9815b2a9c5b9472, type: 3}
+    _idleSpriteB: {fileID: 21300000, guid: 65fd619ad9a9a584bb9b46102dcaf849, type: 3}
+    _gameOverSprite: {fileID: 21300000, guid: ff11e2eaf1d6bcf46a5776cfea8089f9, type: 3}
+  - _idleSpriteA: {fileID: 21300000, guid: ffb4eccc41521c14583de55142584c1f, type: 3}
+    _idleSpriteB: {fileID: 21300000, guid: c011faafc98fec64bad076257a372f90, type: 3}
+    _gameOverSprite: {fileID: 21300000, guid: 7f78b82d82ef4f448ac12103eedf4e4f, type: 3}
+  - _idleSpriteA: {fileID: 21300000, guid: a7872dcbe3be48d48a240cfb06cea9a7, type: 3}
+    _idleSpriteB: {fileID: 21300000, guid: fcf9aaa5072ce234c974ccd986b4ff9d, type: 3}
+    _gameOverSprite: {fileID: 21300000, guid: 670ce0da1c055414ab588b2562e3213f, type: 3}
+  _pamphletPrefab: {fileID: 4000643788290812472, guid: 2c10e40f6840667459a979f83c6e168b, type: 3}
+  _pamphletSprites:
+  - {fileID: 21300000, guid: bb02898ff87ca17408bffdd9b818f25d, type: 3}
+  - {fileID: 21300000, guid: 4d7ff7524564a58439f097479593273e, type: 3}
+  - {fileID: 21300000, guid: e29d50d59e24c70449587fc622bf8417, type: 3}
+  _crowdFansPrewarmCount: 8
+  _pamphletPrewarmCount: 4
+  _crowdFansSpawnInterval: 0.8
+  _pamphletSpawnInterval: 2
+  _setupPropsCount: 4
+  _scrollSpeed: 2.5
