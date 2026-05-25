@@ -5,7 +5,7 @@ Unity로 제작한 플래피 버드 스타일의 미니 프로젝트입니다.<b
 간단한 기획안을 코어 패키지로 최대한 빠르게 완성하는 것을 목표로 잡았습니다.
 
 ## 2. 시연 영상
-(추가 예정)
+[프로젝트 설명 영상](https://youtu.be/_CRV2fZGjAA)
 
 ## 3. 다운로드
 [빌드 다운로드(Itch.io 링크)](https://fortis001.itch.io/flappystar)<br>
