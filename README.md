@@ -38,7 +38,7 @@ Unity로 제작한 플래피 버드 스타일의 미니 프로젝트입니다.<b
 - 내부적으로 자동 호출
 
 ## 7. 샘플 코드
-[ObstacleManager](Assets/2_Scripts/2_GamePlay/Scene/InGame/ObstacleManager)<br>
+[ObstacleManager](Assets/2_Scripts/2_GamePlay/Scene/InGame/ObstacleManager.cs)<br>
 [ObstaclePair](Assets/2_Scripts/2_GamePlay/Entities/ObstaclePair.cs)
 
 ## 8. 고민했던 부분들
